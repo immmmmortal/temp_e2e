@@ -1,0 +1,21 @@
+DB.PORT=5432
+DB.LOCAL_PATH=c:\\tmp\\elephant_temp\\
+DB.HOST=127.0.0.1
+DB.URL=127.0.0.1
+DB.NAME=postgres
+DB.USERNAME=postgres
+DB.PASSWORD=admin
+DB.OS_USER=WINDOWS
+
+APP.URL= http://127.0.0.1:7000
+APP.PORT=7000
+
+EMAIL.HOST=smtp.gmail.com
+EMAIL.PORT=465
+EMAIL.FROM=service-mail@gmail.com
+EMAIL.PASSWORD=my-secret-password
+EMAIL.USER=service-mail@gmail.com
+EMAIL.SSL=true
+
+DEFAULT_LANG=EN
+ENV=PRODUCTION
